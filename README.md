@@ -3,17 +3,29 @@
 
 ![](readme-img/header.png)
 
-## Installation
 
--
+## 개발기간
+* 2019.11.01.~11.12. (약10일)
 
-## Usage example
 
-오렌지보드, 미세먼지센서와 네이버지도API, 공공DB를 이용한 현재 위치에 대한 미세먼지값을 출력하는 모바일 애플리케이션 개발
+## 주요기능
+* 네이버지도API를 이용한 현재 위치 파악
+* 공공DB API를 사용한 해당 지역의 미세먼지 데이터와 실시간으로 측정하는 미세먼지 센서값 비교/출력
+
+
+## 담당한 부분
+* 하드웨어 설계
+* 모바일 앱 개발
+* 상세 내용은 링크 참조
+
+<https://drive.google.com/file/d/1r2VW9bhPdovVvEJzQVU-Czwse0WjZ5Iz/view?usp=sharing>
+
 
 ## Development setup
+* OS: Android 9.0 (Pie)
+* HW: WiFi가 내장된 오렌지보드, 미세먼지 센서
+* API: 공공데이터포털 Open API(대기오염정보), 네이버 지도 API
 
-OS: Android 9
 
 ## Release History
 
@@ -21,16 +33,6 @@ OS: Android 9
     * first
     * 개발 완료
 
-## Meta
+## Contact
 
-김준혁 – wnsgur1198@naver.com
-
-## Contributing
-
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
-2. Create your feature branch (`git checkout -b feature/fooBar`)
-3. Commit your changes (`git commit -am 'Add some fooBar'`)
-4. Push to the branch (`git push origin feature/fooBar`)
-5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
+김준혁 – kimjunhyeok.it@gmail.com
